@@ -1,6 +1,6 @@
 Hi, I’m @hydrogen602 aka Jonathan Rotter. I'm a Computer Science and Physics student at Trinity University (graduating May 2023). 
 
-I'm interested in compilers and language design, web development, physics simulations, useful utilities, robotics, embedded, and many other things.
+I'm interested in compilers and language design, web development, physics simulations, useful utilities, automation, robotics, embedded, and many other things.
 
 
 
