@@ -1,4 +1,4 @@
-Hi, I’m @hydrogen602 aka Jonathan Rotter. I'm a Computer Science and Physics student at Trinity University (graduating May 2023). 
+Hi, I’m @hydrogen602 aka Jonathan Rotter. I graduated with a Bachelor of Science in Computer Science and Physics from Trinity University. 
 
 I'm interested in compilers and language design, web development, physics simulations, useful utilities, automation, robotics, embedded, and many other things.
 
