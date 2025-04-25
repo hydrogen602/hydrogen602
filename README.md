@@ -1,4 +1,4 @@
-Hi, I’m @hydrogen602. I graduated with a Bachelor of Science in Computer Science and Physics from Trinity University. 
+Hi, I’m @hydrogen602.
 
 I'm interested in compilers and language design, functional languages, utilizing the type system to enforce invariants, web development, physics simulations, useful utilities, automation, robotics, embedded development, and many other things.
 
