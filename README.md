@@ -4,10 +4,6 @@ I'm interested in compilers and language design, functional languages, utilizing
 
 
 
-- [linkedin.com/in/jonathan-p-rotter/](https://www.inkedin.com/in/jonathan-p-rotter/)
-
-
-
 <!--  
 
 Reach me via `jonathan.p.rotter@gmail.com` or [https://www.linkedin.com/in/jonathan-rotter-085b3718a/](https://www.linkedin.com/in/jonathan-rotter-085b3718a/).
